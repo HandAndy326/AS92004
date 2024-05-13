@@ -7,8 +7,6 @@ if operator == '+':
     answer = num1 + num2
 elif operator == '-':
     answer = num1 - num2
-elif operator == '*':
-    answer = num1 * num2
 user = int(input(f"What is {num1} {operator} {num2} = "))
 if user == answer:
     print("correct!")
