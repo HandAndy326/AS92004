@@ -28,3 +28,4 @@ Your name
 BJB:
 - 27/05 Please update this README document with the relevant details.
 - 27/05 It's good to see regular commits but you could be a little more descriptive.
+- 08/06 Please add comment through your code to explain what is going on as though to a complete newbie.  Also, update this readme.
