@@ -76,7 +76,7 @@ def question_generator():
         elif user_answer != answer:
             print("wrong")
             print(f"The correct answer is {answer}")
-        return num_of_questions_correct
+
 
 def getting_history():
     while True:
